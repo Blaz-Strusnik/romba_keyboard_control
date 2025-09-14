@@ -17,7 +17,7 @@ A simple Python script to control a **USB-connected Roomba vacuum cleaner** dire
 Follow these steps to install and set up the project:
 
 # Clone the repository
-git clone https://github.com/your-username/roomba-control.git
+git clone https://github.com/Blaz-Strusnik/romba_keyboard_control
 
 # Navigate into the project folder
 cd roomba-control
